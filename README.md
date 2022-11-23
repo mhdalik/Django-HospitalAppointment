@@ -45,4 +45,4 @@ who participated in this project. -->
 # 🎉 Acknowledgments <a name = "acknowledgments"></a>
 
 - Tutorial followed : YesTech Media YouTube Channel
-- Link : 
+- Link : https://www.youtube.com/channel/UC8oGXh16q4YXnVPNrF3fE9w
