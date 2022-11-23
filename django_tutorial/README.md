@@ -19,9 +19,9 @@ In this project there are mainly 3 database tables (Departments, Doctors, Bookin
 
 # ⛏️ Built With <a name = "tech_stack"></a>
 
-- [Sqlite](https://www.mongodb.com/) - Database
-- [Django](https://expressjs.com/) - Web Backend Framework
-- [Bootsrap](https://vuejs.org/) - Front-End
+- [Sqlite](https://www.bing.com/ck/a?!&&p=e5936707483090e9JmltdHM9MTY2OTA3NTIwMCZpZ3VpZD0wY2NkN2NjYS0yZGE2LTY3OTYtMTY3OC02ZWU1MmNjMzY2ZjAmaW5zaWQ9NTE4Nw&ptn=3&hsh=3&fclid=0ccd7cca-2da6-6796-1678-6ee52cc366f0&psq=sqlite&u=a1aHR0cHM6Ly93d3cuc3FsaXRlLm9yZy9pbmRleC5odG1s&ntb=1)) - Database
+- [Django](https://www.bing.com/ck/a?!&&p=c2e9da1d85225d17JmltdHM9MTY2OTA3NTIwMCZpZ3VpZD0wY2NkN2NjYS0yZGE2LTY3OTYtMTY3OC02ZWU1MmNjMzY2ZjAmaW5zaWQ9NTE5MQ&ptn=3&hsh=3&fclid=0ccd7cca-2da6-6796-1678-6ee52cc366f0&psq=django&u=a1aHR0cDovL3d3dy5kamFuZ29wcm9qZWN0LmNvbS8&ntb=1) - Web Backend Framework
+- [Bootsrap](https://www.bing.com/ck/a?!&&p=910dcdb504cea950JmltdHM9MTY2OTA3NTIwMCZpZ3VpZD0wY2NkN2NjYS0yZGE2LTY3OTYtMTY3OC02ZWU1MmNjMzY2ZjAmaW5zaWQ9NTIwNg&ptn=3&hsh=3&fclid=0ccd7cca-2da6-6796-1678-6ee52cc366f0&psq=bootstrap&u=a1aHR0cHM6Ly9nZXRib290c3RyYXAuY29tLw&ntb=1) - Front-End
 
 <!-- ## ✍️ Authors <a name = "authors"></a>
 
