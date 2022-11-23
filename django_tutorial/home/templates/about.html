@@ -1,0 +1,38 @@
+
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}
+hello
+{% endblock %}
+{% block content %}
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="1" ></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img class="d-block w-100" src="{% static '/im1.png' %}" alt="First slide">
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="{% static '/im2.png' %}" alt="Second slide">
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="{% static 'im3.png' %}" alt="Third slide">
+      </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+  <p style="font-size:40px; text-align: center;">Overview</p>
+
+  <p style="padding: 60px; padding-top: 5px;font-size: 20px;">Malabar Institute of Medical Sciences Ltd (MIMS), the well-acclaimed health enterprise and one of the leading healthcare systems in Malabar, assures comprehensive health care services with a global standard. The 600-bedded multispecialty hospital is renowned for its excellent medical expertise, nursing care and quality diagnostic services. By focusing on the idea of caring mission with a global vision, Aster MIMS - one of the best hospital in Calicut, stresses on improving the health of the community by setting up the standard of excellence in medical education, research and clinical care. Aiming a patient- centric care, the hospital is utilizing enhanced lifesaving technologies for leveraging the level of cure.</p>
+  {% endblock %}

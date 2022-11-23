@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block content %} 
+
+<h1 class="text-center">Our Doctors</h1>
+<hr>
+
+{% for doc in doctors %}
+    <div class="mx-auto w-50 text-center my-3 p-3 text-white bg-success border-warning rounded">
+        <h1>{{doc.doc_name}}</h1>
+        <p>{{doc.doc_spec}}</p>
+    </div>
+{% endfor %}
+
+{% endblock %}

@@ -1,0 +1,6 @@
+li:hover{
+    background-color: green;
+    border-radius: 10px;
+    /* border: 1px solid yellow; */
+    /* -webkit-text-fill-color: blue; */
+}
